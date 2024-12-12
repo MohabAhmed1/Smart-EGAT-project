@@ -1,0 +1,6 @@
+../Src/01-MCAL/12-ADC/ADC_program.c:20:6:ADC1_voidSingleChannelInit	16	static
+../Src/01-MCAL/12-ADC/ADC_program.c:51:4:ADC1_u8SingleChannelCheck	16	static
+../Src/01-MCAL/12-ADC/ADC_program.c:66:6:ADC1_voidSingleChannelRX	24	static
+../Src/01-MCAL/12-ADC/ADC_program.c:111:6:ADC1_voidMultiChannelInit	16	static
+../Src/01-MCAL/12-ADC/ADC_program.c:133:6:ADC1_voidSetNextChannel	16	static
+../Src/01-MCAL/12-ADC/ADC_program.c:139:6:ADC1_voidMultiChannel_RX	32	static

@@ -1,0 +1,7 @@
+../Src/main.c:49:5:main	24	static
+../Src/main.c:91:6:ReadTemp	16	static
+../Src/main.c:96:6:ReadLight	16	static
+../Src/main.c:101:6:reply_json_data	32	static
+../Src/main.c:126:6:send_and_parse_json	144	static
+../Src/main.c:214:7:IntToStr	16	static
+../Src/main.c:222:14:string_to_unsigned_int	24	static

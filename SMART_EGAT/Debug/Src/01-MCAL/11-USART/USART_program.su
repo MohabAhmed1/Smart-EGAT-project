@@ -1,0 +1,8 @@
+../Src/01-MCAL/11-USART/USART_program.c:23:6:USART_voidInit	32	static
+../Src/01-MCAL/11-USART/USART_program.c:107:6:USART_voidTransmitByteSynch	16	static
+../Src/01-MCAL/11-USART/USART_program.c:119:4:USART_voidReceiveByteSynch	24	static
+../Src/01-MCAL/11-USART/USART_program.c:136:7:USART_voidSendArrSynch	24	static
+../Src/01-MCAL/11-USART/USART_program.c:148:7:USART_voidReceiveArrSynch	32	static
+../Src/01-MCAL/11-USART/USART_program.c:162:6:USART_voidSendString	16	static
+../Src/01-MCAL/11-USART/USART_program.c:169:7:USART_voidSendNumber	32	static
+../Src/01-MCAL/11-USART/USART_program.c:217:4:USART_u8ReceiveByteNonBlocking	16	static

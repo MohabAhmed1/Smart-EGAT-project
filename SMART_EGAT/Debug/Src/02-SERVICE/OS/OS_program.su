@@ -1,0 +1,4 @@
+../Src/02-SERVICE/OS/OS_program.c:20:6:OS_CreateTask	24	static
+../Src/02-SERVICE/OS/OS_program.c:27:6:OS_voidStart	8	static
+../Src/02-SERVICE/OS/OS_program.c:36:6:OS_voidModifyPeriodictyTask	16	static
+../Src/02-SERVICE/OS/OS_program.c:41:6:OS_voidScheduler	16	static
